@@ -2,8 +2,7 @@
 layout: post
 title:  "Is COVID over? If so, then why don't I blog for a bit?"
 date:   2022-03-13 20:43:42 -0400
-categories: jekyll update
-excerpt_separator: <!--more-->
+categories: introduction covid
 ---
 
 ## My New Space

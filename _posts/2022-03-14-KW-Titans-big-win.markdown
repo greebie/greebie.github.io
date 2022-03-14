@@ -2,8 +2,7 @@
 layout: post
 title:  "Big Win for the KW Titans!"
 date:   2022-03-13 20:43:42 -0400
-excerpt_separator: <!--more-->
-categories: jekyll update
+categories: basketball kitchener-waterloo titans
 ---
 
 ## Kokomo BobKats (L) vs KW Titans (W) 82-98
