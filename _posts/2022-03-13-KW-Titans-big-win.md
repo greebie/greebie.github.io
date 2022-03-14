@@ -19,4 +19,4 @@ Another great thing to see was Ronald Artest III putting in a great 10 points an
 
 Nicholas McKenzie (18 points) and Chandler Levingston scared the fans in the early going by dropping a few three pointers and gathering an early lead. Johnny Griffin Jr also scored 16 points in a losing effort.
 
-After the game, the team treated fans to an autograph session. I regret to say that I did make the joke about how us fans all knew we had to be on our best behavior in the stands to Ron Artest III. Sorry Ron, that joke's of my system and hopefully you won't hear any more about that in future. We're glad to have you and look forward to seeing more. Hope you enjoy KW as much as we do!
+After the game, the team treated fans to an autograph session. I regret to say that I did make the joke about how us fans all knew we had to be on our best behavior in the stands to Ron Artest III. Sorry Ron, that joke's out of my system and hopefully you won't hear any more about that in future. We're glad to have you and look forward to seeing more. Hope you enjoy KW as much as we do!
