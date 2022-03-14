@@ -22,10 +22,10 @@ title: Ryan Deschamps, PhD
 email: rddescha@dal.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Ryan Deschamps 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ryanblog" # the subpath of your site, e.g. /blog
 show_excerpts: true
 excerpt_separator: <!--more-->
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://greebie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 stackoverflow_username: "3050664"
 twitter_username: ryandeschamps
 github_username:  greebie
