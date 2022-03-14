@@ -6,3 +6,11 @@ layout: default
 ---
 
 Welcome to my site! I sometimes share things about my local community and projects I'm working on here. Glad to see you!
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{post.url}}>{{post.title}}</a>
+      </li>
+      {% endfor %}
+</ul>
