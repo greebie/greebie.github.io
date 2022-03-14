@@ -33,7 +33,7 @@ github_username:  greebie
 linkedin_username: ryandeschamps
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
