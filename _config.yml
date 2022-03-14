@@ -32,7 +32,7 @@ github_username:  greebie
 linkedin_username: ryandeschamps
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
